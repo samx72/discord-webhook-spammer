@@ -1,1 +1,1 @@
-# discord-webhook-spammer
+# YOU MUST BE DOWNLOADED PYTHON
